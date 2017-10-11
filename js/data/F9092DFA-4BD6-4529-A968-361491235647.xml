@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("1.5.1.2:1", "", "Django View", "EARoot/EA1/EA5/EA1/EA2/EA226.html", "176.png", "42", "0", "", "Package diagram0","{754286CC-D082-4d84-95B9-DE77FBA41299}");
+tocTab[tocTab.length] = new Array("1.5.1.2.1", "1", "django REST Serializer", "EARoot/EA1/EA5/EA1/EA2/EA228.html", "4.png", "", "", "{428FF0CF-F947-4d2d-85CA-64A428D92B8C}", "Package");
+tocTab[tocTab.length] = new Array("1.5.1.2.2", "1", "django REST View", "EARoot/EA1/EA5/EA1/EA2/EA229.html", "4.png", "", "", "{1728533F-BA2B-4557-9BE3-A8FD6F2B7E7E}", "Package");
+tocTab[tocTab.length] = new Array("1.5.1.2.3", "1", "Estructura Perfil/Django views", "EARoot/EA1/EA5/EA1/EA2/EA230.html", "4.png", "", "", "{9B53F2CF-9B53-4a5f-B966-94F17F4B9481}", "Package");
+tocTab[tocTab.length] = new Array("1.5.1.2.4", "1", "Seguimiento/views", "EARoot/EA1/EA5/EA1/EA2/EA231.html", "4.png", "", "", "{C6931541-7E31-44b3-8A9B-794FBE1198F3}", "Package");

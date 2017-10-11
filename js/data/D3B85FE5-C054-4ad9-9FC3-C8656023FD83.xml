@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("1.4.2.2:1", "", "carrera", "EARoot/EA1/EA4/EA2/EA2/EA99.html", "180.png", "26", "0", "", "Use Case diagram0","{3CB8B366-ECF0-4766-BAC2-B459CB568964}");
+tocTab[tocTab.length] = new Array("1.4.2.2:2", "", "Editar carrera", "EARoot/EA1/EA4/EA2/EA2/EA101.html", "7.png", "158", "0", "", "UseCase0","{A4A2C7FF-156C-4abd-A21A-ED1852D94CDE}");
+tocTab[tocTab.length] = new Array("1.4.2.2:3", "", "Eliminar carrera", "EARoot/EA1/EA4/EA2/EA2/EA102.html", "7.png", "160", "0", "", "UseCase0","{FCED46F6-2942-49b5-BA16-B93FCEB5E5BB}");
+tocTab[tocTab.length] = new Array("1.4.2.2:4", "", "Gestion estructura perfil", "EARoot/EA1/EA4/EA2/EA2/EA103.html", "7.png", "157", "0", "", "UseCase0","{961AC2FB-38D3-4722-80F9-79CBB54DCAF4}");
+tocTab[tocTab.length] = new Array("1.4.2.2:5", "", "Mantenimiento carrera", "EARoot/EA1/EA4/EA2/EA2/EA104.html", "7.png", "156", "0", "", "UseCase0","{73B389E5-ED9A-4873-A5DB-8DA80139145B}");
+tocTab[tocTab.length] = new Array("1.4.2.2:6", "", "Registrar carrera", "EARoot/EA1/EA4/EA2/EA2/EA105.html", "7.png", "159", "0", "", "UseCase0","{EA1CB0A4-6DAB-4675-BD22-B7E4FD077A3F}");

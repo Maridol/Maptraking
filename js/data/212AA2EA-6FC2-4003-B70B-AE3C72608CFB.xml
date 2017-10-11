@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("1.4.2.6:1", "", "escuela", "EARoot/EA1/EA4/EA2/EA6/EA124.html", "180.png", "30", "0", "", "Use Case diagram0","{91535A01-1A15-45e3-ADB8-E222C4CF90A3}");
+tocTab[tocTab.length] = new Array("1.4.2.6:2", "", "Crear escuela", "EARoot/EA1/EA4/EA2/EA6/EA126.html", "7.png", "183", "0", "", "UseCase0","{A9AB75C5-7813-456b-A6F3-A00A29DCF976}");
+tocTab[tocTab.length] = new Array("1.4.2.6:3", "", "Editar escuela", "EARoot/EA1/EA4/EA2/EA6/EA127.html", "7.png", "184", "0", "", "UseCase0","{FFD6330B-7C81-482d-A18C-CA023E4AE416}");
+tocTab[tocTab.length] = new Array("1.4.2.6:4", "", "Eliminar escuela", "EARoot/EA1/EA4/EA2/EA6/EA128.html", "7.png", "181", "0", "", "UseCase0","{090F89FC-F3CD-4231-8891-8C561A5B40D4}");
+tocTab[tocTab.length] = new Array("1.4.2.6:5", "", "Mantenimiento escuela", "EARoot/EA1/EA4/EA2/EA6/EA129.html", "7.png", "182", "0", "", "UseCase0","{27EBD303-48B0-44c1-8290-A56F47A578FA}");

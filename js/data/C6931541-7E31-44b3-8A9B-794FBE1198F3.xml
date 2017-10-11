@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.5.1.2.4.1", "1", "estudiante_view.py", "EARoot/EA1/EA5/EA1/EA2/EA4/EA283.html", "4.png", "", "", "{9075E171-140D-40d5-89DF-8E97AF276DE4}", "Package");
+tocTab[tocTab.length] = new Array("1.5.1.2.4.2", "1", "informacion_academica_view.py", "EARoot/EA1/EA5/EA1/EA2/EA4/EA284.html", "4.png", "", "", "{5F1B5629-5933-493a-86D4-D4B2AF9A47B7}", "Package");
+tocTab[tocTab.length] = new Array("1.5.1.2.4.3", "1", "modulo_view.py", "EARoot/EA1/EA5/EA1/EA2/EA4/EA285.html", "4.png", "", "", "{A786ECF5-2D2F-48cf-94FA-D29434E50B2A}", "Package");
+tocTab[tocTab.length] = new Array("1.5.1.2.4.4", "1", "seguimiento_view.py", "EARoot/EA1/EA5/EA1/EA2/EA4/EA286.html", "4.png", "", "", "{60A33AF0-2AD2-4a50-B3F6-01F646FEB2B2}", "Package");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("1.4.3.3:1", "", "modulo", "EARoot/EA1/EA4/EA3/EA3/EA181.html", "180.png", "39", "0", "", "Use Case diagram0","{13F86D0B-6B2E-41be-8F02-133A4D953022}");
+tocTab[tocTab.length] = new Array("1.4.3.3:2", "", "Crear modulo", "EARoot/EA1/EA4/EA3/EA3/EA183.html", "7.png", "223", "0", "", "UseCase0","{C219AB01-DBD3-4380-9AFF-B2081666545A}");
+tocTab[tocTab.length] = new Array("1.4.3.3:3", "", "Editar modulo", "EARoot/EA1/EA4/EA3/EA3/EA184.html", "7.png", "224", "0", "", "UseCase0","{C66DF27A-50BC-46fa-90C8-EDC2C4AFDC63}");
+tocTab[tocTab.length] = new Array("1.4.3.3:4", "", "Eliminar modulo", "EARoot/EA1/EA4/EA3/EA3/EA185.html", "7.png", "222", "0", "", "UseCase0","{B5B7BEF0-D698-4828-BDF4-6B232C0AEE69}");
+tocTab[tocTab.length] = new Array("1.4.3.3:5", "", "Mantenimiento modulo", "EARoot/EA1/EA4/EA3/EA3/EA186.html", "7.png", "221", "0", "", "UseCase0","{A514F35C-2DBD-45ab-A6B3-3D5136F82690}");

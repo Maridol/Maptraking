@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.5.2.1.3:1", "", "reducers", "EARoot/EA1/EA5/EA2/EA1/EA3/EA322.html", "175.png", "51", "0", "", "Logical diagram0","{DF9E7295-5801-4b7d-B1EF-3578D18117F8}");
+tocTab[tocTab.length] = new Array("1.5.2.1.3:2", "", "campus-reducer.js", "EARoot/EA1/EA5/EA2/EA1/EA3/EA324.html", "5.png", "297", "0", "", "Class0","{82EF3FDB-606E-461e-8F64-9D68189FDF49}");
+tocTab[tocTab.length] = new Array("1.5.2.1.3:3", "", "campusReducer", "EARoot/EA1/EA5/EA2/EA1/EA3/EA325.html", "5.png", "298", "0", "", "Class0","{A3EC0222-9608-4a1f-BFEF-8927A83EA3A5}");

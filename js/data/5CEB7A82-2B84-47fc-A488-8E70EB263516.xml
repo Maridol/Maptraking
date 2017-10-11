@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("1.2:1", "", "Modelo de Componentes", "EARoot/EA1/EA2/EA26.html", "178.png", "5", "0", "", "Component diagram0","{E23CA7D5-D9A6-4fe2-9253-685F25A83DED}");
+tocTab[tocTab.length] = new Array("1.2:2", "", "Django REST framework", "EARoot/EA1/EA2/EA29.html", "10.png", "44", "0", "", "Component0","{5ACC157C-B720-47b8-B990-B8B7AF762A9F}");
+tocTab[tocTab.length] = new Array("1.2:3", "", "React ", "EARoot/EA1/EA2/EA30.html", "10.png", "45", "0", "", "Component0","{7F337481-0659-4122-922B-B4E8FF09DDE4}");
+tocTab[tocTab.length] = new Array("1.2:4", "", "Sqlite3 MySQL", "EARoot/EA1/EA2/EA31.html", "10.png", "43", "0", "", "Component0","{58F93DED-7B0D-4e7d-B228-F5E03D33B99E}");
+tocTab[tocTab.length] = new Array("1.2.1", "1", "Acceso a Datos", "EARoot/EA1/EA2/EA28.html", "4.png", "", "", "{F3221CED-FB4D-421d-9579-B86567344981}", "Package");

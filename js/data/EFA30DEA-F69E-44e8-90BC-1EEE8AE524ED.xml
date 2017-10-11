@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.3.1:1", "", "django_REST_Framework", "EARoot/EA1/EA3/EA1/EA56.html", "179.png", "14", "0", "", "Deployment diagram0","{3EA56136-3CEE-4ff3-9D27-125D11474A81}");
+tocTab[tocTab.length] = new Array("1.3.1:2", "", "Database", "EARoot/EA1/EA3/EA1/EA58.html", "9.png", "96", "0", "", "Node0","{4576F2DB-AD75-49ab-A0EA-3F63398382C3}");
+tocTab[tocTab.length] = new Array("1.3.1:3", "", "django Rest Framework", "EARoot/EA1/EA3/EA1/EA59.html", "9.png", "97", "0", "", "Node0","{C16EBD1A-1791-4731-A771-63849DBEFFF6}");

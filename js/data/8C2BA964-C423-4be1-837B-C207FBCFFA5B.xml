@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("1.4.2.4:1", "", "Criterios de desempeño", "EARoot/EA1/EA4/EA2/EA4/EA112.html", "180.png", "28", "0", "", "Use Case diagram0","{EC243BE4-F09E-4603-B51C-75939884181E}");
+tocTab[tocTab.length] = new Array("1.4.2.4:2", "", "Crear criterios de desempeño", "EARoot/EA1/EA4/EA2/EA4/EA114.html", "7.png", "170", "0", "", "UseCase0","{336A8055-4F35-4e1a-9467-B4EE805997DE}");
+tocTab[tocTab.length] = new Array("1.4.2.4:3", "", "Editar  criterios de desempeño", "EARoot/EA1/EA4/EA2/EA4/EA115.html", "7.png", "171", "0", "", "UseCase0","{46B84B90-9F48-4735-9A66-E99F03A9ADDE}");
+tocTab[tocTab.length] = new Array("1.4.2.4:4", "", "Eliminar  criterios de desempeño", "EARoot/EA1/EA4/EA2/EA4/EA116.html", "7.png", "172", "0", "", "UseCase0","{82997EC3-E72B-40b0-A174-89D4EEE0B836}");
+tocTab[tocTab.length] = new Array("1.4.2.4:5", "", "Mantenimiento de criterios de desempeño", "EARoot/EA1/EA4/EA2/EA4/EA117.html", "7.png", "169", "0", "", "UseCase0","{14C7EBC9-11DD-4bc1-8D16-9F517046BF08}");

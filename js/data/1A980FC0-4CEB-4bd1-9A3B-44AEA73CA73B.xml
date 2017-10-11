@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("1.4.2.10:1", "", "unidad", "EARoot/EA1/EA4/EA2/EA10/EA154.html", "180.png", "36", "0", "", "Use Case diagram0","{9112DC8B-E4EC-45aa-A7C8-A0C3C57A306F}");
+tocTab[tocTab.length] = new Array("1.4.2.10:2", "", "Crear Unidad competencia", "EARoot/EA1/EA4/EA2/EA10/EA156.html", "7.png", "208", "0", "", "UseCase0","{6A4ABD52-E25D-4a2f-99F4-5232649A6CCC}");
+tocTab[tocTab.length] = new Array("1.4.2.10:3", "", "Editar Unidad competencia", "EARoot/EA1/EA4/EA2/EA10/EA157.html", "7.png", "209", "0", "", "UseCase0","{92A15DB6-CB2E-4730-8699-38B6DE954FA9}");
+tocTab[tocTab.length] = new Array("1.4.2.10:4", "", "Eliminar Unidad competencia", "EARoot/EA1/EA4/EA2/EA10/EA158.html", "7.png", "210", "0", "", "UseCase0","{F38CA564-A8E4-4cba-BA51-4BAA8C0F45D6}");
+tocTab[tocTab.length] = new Array("1.4.2.10:5", "", "Mantenimiento Unidad competencia", "EARoot/EA1/EA4/EA2/EA10/EA159.html", "7.png", "207", "0", "", "UseCase0","{31DC341A-4FDA-4640-8CEE-427A21A64993}");

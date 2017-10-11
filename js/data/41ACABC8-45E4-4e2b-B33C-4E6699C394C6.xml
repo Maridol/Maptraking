@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("1.4.3.1:1", "", "estudiante", "EARoot/EA1/EA4/EA3/EA1/EA173.html", "180.png", "37", "0", "", "Use Case diagram0","{7224B461-4B84-4e3b-BB20-13E552BE5009}");
+tocTab[tocTab.length] = new Array("1.4.3.1:2", "", "Crear estudiante", "EARoot/EA1/EA4/EA3/EA1/EA175.html", "7.png", "213", "0", "", "UseCase0","{32280941-080D-4d0d-AC02-93B82309070F}");
+tocTab[tocTab.length] = new Array("1.4.3.1:3", "", "Editar estudiante", "EARoot/EA1/EA4/EA3/EA1/EA176.html", "7.png", "216", "0", "", "UseCase0","{F7E5F5C4-692E-4b03-A067-8A35F73500AF}");
+tocTab[tocTab.length] = new Array("1.4.3.1:4", "", "Eliminar estudiante", "EARoot/EA1/EA4/EA3/EA1/EA177.html", "7.png", "215", "0", "", "UseCase0","{C4FEA21E-6DCD-4872-B405-ECB81A1F0BEB}");
+tocTab[tocTab.length] = new Array("1.4.3.1:5", "", "Mantenimiento estudiante", "EARoot/EA1/EA4/EA3/EA1/EA178.html", "7.png", "214", "0", "", "UseCase0","{4248A10C-38A3-4a52-946A-75C4BE30DE67}");
